@@ -9,7 +9,7 @@
 6. Select the collection and then update the following settings:
 - Environemnt: bpdts
 - Data: (select the downloaded file from step 3)
- -Data File Type: application/json
+- Data File Type: application/json
 - Iterations: 1000
 - Delay: 1 ms
 - Keep variable values (ticked)
