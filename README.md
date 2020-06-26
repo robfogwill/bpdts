@@ -15,3 +15,4 @@
 - Keep variable values (ticked)
 7. Deselect the "Get users" test as this was only required to populate the data file.
 8. Select the "Run bpdts Collection" button.
+9. From the results you will be able to see that a valid status 200 is returned for each user and for the corresponding city for each user.
