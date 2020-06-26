@@ -11,7 +11,7 @@
 - Data: (select the downloaded file from step 3)
  -Data File Type: application/json
 - Iterations: 1000
-- Delay: 5ms
- -Keep variable values (ticked)
+- Delay: 1 ms
+- Keep variable values (ticked)
 7. Deselect the "Get users" test as this was only required to populate the data file.
 8. Select the "Run bpdts Collection" button.
